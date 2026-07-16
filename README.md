@@ -1,3 +1,5 @@
+<div align="center">
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20my%20Profile&fontSize=70&animation=twinkling" alt="Profile header" />
 </p>
@@ -6,7 +8,7 @@
 <h3 align="center">
     <samp>
         &gt; Hey There!, I am
-        <b><a target="_blank" href="https://github.com/YOUR_USERNAME">[Your Name]</a></b>
+        <b><a target="_blank" href="https://github.com/Yashmukadeee">Yash Mukade</a></b>
     </samp>
 </h3>
 
@@ -29,7 +31,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Animated coding visual">
 </p>
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/YOUR_USERNAME)
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Yashmukadeee)
 
 <!-- Featured Projects -->
 <p align="center">
@@ -37,11 +39,11 @@
 </p>
 
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/YOUR_USERNAME)
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Yashmukadeee)
 
 # 🛠 Technologies & Projects
 
-<table border="0" cellspacing="10" cellpadding="0">
+<table border="0" cellspacing="10" cellpadding="0" align="center">
 <tr>
 
 <!-- LEFT: TOOLS -->
@@ -74,7 +76,7 @@
 
 <h3>🧪 Projects</h3>
 <br>
-<ul>
+<ul style="text-align: left; display: inline-block;">
   <li><b>Campus Career AI</b> (Interactive Next.js App)</li>
   <li><b>Goa Hackathon 2026</b> (Organizer/Platform)</li>
   <li><b>Sports Tech Solutions</b> (GCPL Hackathon)</li>
@@ -85,36 +87,36 @@
 </tr>
 </table>
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/YOUR_USERNAME)
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Yashmukadeee)
 
 ### 📊 Vital Statistics
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashmukadeee&theme=radical" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical" alt="GitHub profile contribution summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashmukadeee&theme=radical" alt="GitHub profile contribution summary" />
 </p>    
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Yashmukadeee&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
 </p>
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/YOUR_USERNAME)
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Yashmukadeee)
 
-<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<table width="100%" border="0" cellspacing="10" cellpadding="0" align="center">
 <tr>
 
 <!-- LEFT: COLLAB -->
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 <h2>🤝 Collaboration</h2>
 
 I’m open to collaborating on:
 
-<ul>
+<ul style="text-align: left; display: inline-block;">
   <li>Next.js & Supabase applications</li>
   <li>Hackathon team projects (Web & App Dev)</li>
   <li>C++ problem solving and algorithms</li>
@@ -131,12 +133,12 @@ I’m open to collaborating on:
 
 <br>
 
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/email-your.email@example.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
+<a href="mailto:ymukade3@gmail.com">
+  <img src="https://img.shields.io/badge/email-ymukade3@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
 </a>
 <br><br>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/yashmukade/">
   <img src="https://img.shields.io/badge/linkedin-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
 </a>
 
@@ -145,7 +147,7 @@ I’m open to collaborating on:
 </tr>
 </table>
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/YOUR_USERNAME)
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Yashmukadeee)
 
 <p align="center">
 ⚡ Building modern web applications and exploring computer science
@@ -155,3 +157,5 @@ I’m open to collaborating on:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>
+
+</div>
