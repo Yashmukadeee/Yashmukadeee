@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash M</h1>
+<h1 align="center">Hi 👋, I'm Yash Mukade</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently working on [Smart-Healthcare](https://github.com/Yashmukadeee/Smart-Healthcare)
